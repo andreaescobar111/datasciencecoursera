@@ -108,3 +108,6 @@ Contributors
     L. Collado-Torres - Fixed typos, added links.
     Nick Reich - Added tips on storing data as text.
     Nick Horton - Minor wording suggestions.
+    
+    
+    git@github.com:jtleek/datasharing.git
